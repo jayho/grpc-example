@@ -1,5 +1,5 @@
 # gRPC Examples
-Examples that shows client/server communication via [gRPC](http://www.grpc.io/).
+Examples that show client/server communication via [gRPC](http://www.grpc.io/).
 
 - [X] Java (using Gradle)
-- [ ] Scala (using SBT)
+- [X] Scala (using SBT)

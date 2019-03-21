@@ -8,6 +8,10 @@
 build/
 */build/
 
+### SBT ###
+target/
+*/target/
+
 ### Vim ###
 # swap
 [._]*.s[a-w][a-z]
@@ -19,6 +23,10 @@ Session.vim
 *~
 # auto-generated tag files
 tags
+
+### Atom ###
+.metals
+.bloop
 
 ### Mac ###
 .DS_Store
