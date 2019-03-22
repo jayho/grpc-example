@@ -7,7 +7,7 @@ Example that shows client/server communication via [gRPC](http://www.grpc.io/).
 ## Run Example
 
 ### Start Server
-    ./sbt run # and choose Server main when asked
+    ./sbt runMain Server
 
 ### Run Client (requires running server)
-    ./sbt run # and choose Client main when asked
+    ./sbt runMain Client
